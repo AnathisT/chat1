@@ -43,7 +43,7 @@ Other things to include:
 
 ## Application architecture
 
-![](https://github.com/anna5812m/chat1/blob/editor/class_diagram.png)
+![](https://github.com/anna5812m/chat1/blob/editor/client-server.png)
 
 ## Class diagram
 
