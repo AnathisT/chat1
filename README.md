@@ -43,7 +43,7 @@ Other things to include:
 
 ## Class diagram
 
-![](https://raw.githubusercontent.com/cfpb/open-source-project-template/main/class_diagram.png)
+![](https://github.com/anna5812m/chat1/blob/editor/class_diagram.png)
 
 ## Dependencies
 
