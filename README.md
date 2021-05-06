@@ -41,6 +41,13 @@ Other things to include:
 
 ![](https://raw.githubusercontent.com/cfpb/open-source-project-template/main/screenshot.png)
 
+## Application architecture
+
+![](https://github.com/anna5812m/chat1/blob/editor/client-server.png)
+
+## Class diagram
+
+![](https://github.com/anna5812m/chat1/blob/editor/class_diagram.png)
 
 ## Dependencies
 
