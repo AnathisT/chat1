@@ -41,6 +41,9 @@ Other things to include:
 
 ![](https://raw.githubusercontent.com/cfpb/open-source-project-template/main/screenshot.png)
 
+## Class diagram
+
+![](https://raw.githubusercontent.com/cfpb/open-source-project-template/main/class_diagram.png)
 
 ## Dependencies
 
